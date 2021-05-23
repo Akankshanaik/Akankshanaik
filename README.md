@@ -1,13 +1,10 @@
 ### Hi there 👋 
-# :man_technologist:It's Shubham Bagade
+# :man_technologist:It's Akanksha Naik
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MrShubham1267)](https://github.com/MrShubham1267)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhambagde/)](https://www.linkedin.com/in/shubhambagde/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sbagade9171@gmail.com)](mailto:sbagade9171@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Akankshanaik)](https://github.com/Akankshanaik)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=https://www.linkedin.com/in/akanksha-naik/)](https://www.linkedin.com/in/akanksha-naik/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naikakanksha3@gmail.com)](mailto:naikakanksha3@gmail.com)
 
-
-<h1 align="center">Hi 👋, I'm Akanksha Naik</h1>
-<h3 align="center">I'm a passionate Full Stack Development .Like to work on project of Data science would contribute more to the community of Data Science. Also,takes interest in COMPUTER VISION and Natural Language Processing. You can reach to me on :</h3>
 
 
 
