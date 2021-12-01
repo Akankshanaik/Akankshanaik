@@ -1,5 +1,4 @@
-### Hi there 👋 
-# 👩‍💻_technologist:It's Akanksha Naik
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Akankshanaik)](https://github.com/Akankshanaik)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=https://www.linkedin.com/in/akanksha-naik/)](https://www.linkedin.com/in/akanksha-naik/)
